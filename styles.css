@@ -45,12 +45,12 @@ body {
   
   p:nth-of-type(2) {
     color: #e74c3c;
-    font-weight: bold;
+    text-decoration: underline;
   }
   
   p:nth-of-type(3) {
     color: #8e44ad;
-    font-style: italic;
+    text-decoration: underline;
   }
   
   p:nth-of-type(4) {
